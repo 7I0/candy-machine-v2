@@ -16,12 +16,12 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "Shapes";
-  const DESCRTIPTION = "A collection of shapes on the blockchain";
-  const HEADER_TITLE = "shapes.xyz";
-  const HEADER_LINK = "https://lanablocks.xyz";
+  const TITLE = "GreekPunkz";
+  const DESCRTIPTION = "333 Greekpunkz ready for battle and destined for the Solympus";
+  const HEADER_TITLE = "GreekPunkz";
+  const HEADER_LINK = "https://discord.gg/GreekPunkz";
   // Your image or GIF needs to be in the /public folder for this to work
-  const IMAGE_LINK = "/example.gif";
+  const IMAGE_LINK = "/greekpunkz.gif";
   /***********************************/
 
   const { solana } = window as any;
