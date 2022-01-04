@@ -21,7 +21,7 @@
   const HEADER_TITLE = "GreekPunkz";
   const HEADER_LINK = "https://discord.gg/GreekPunkz";
   // Your image or GIF needs to be in the /public folder for this to work
-  const IMAGE_LINK = "/greekpunkz.gif";
+  const IMAGE_LINK = "/GreekPunkz.gif";
   /***********************************/
 
   const { solana } = window as any;
